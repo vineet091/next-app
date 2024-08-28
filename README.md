@@ -19,7 +19,9 @@ bun dev
 
 - npx create-next-app
 - npm i
-- npm run dev
+- npm run dev //dev
+- npm run build //prod build
+- npm run start //production start
 
 
 
