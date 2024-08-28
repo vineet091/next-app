@@ -1,5 +1,5 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-# Next JS + Typescript + MongoDb + Tailwind + Auth
+# Next JS + Typescript + MongoDb + Tailwind + Auth + App Router
 
 ## Getting Started
 
@@ -15,9 +15,11 @@ pnpm dev
 bun dev
 ```
 
-// Steps
+## Steps
 
 - npx create-next-app
+- npm i
+- npm run dev
 
 
 
